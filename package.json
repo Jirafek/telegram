@@ -1,0 +1,20 @@
+{
+  "name": "weatherBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weather.js",
+  "dependencies": {
+    "node-fetch": "^2.6.6",
+    "node-telegram-bot-api": "^0.54.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node weather.js"
+  },
+  "engines": {
+    "node": "14.17.6"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
