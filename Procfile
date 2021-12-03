@@ -1,1 +1,1 @@
-web: node weather.js
+worker: node weather.js
